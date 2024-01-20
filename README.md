@@ -1,28 +1,21 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
-<h3 align="center">A passionate learner</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaypratap1968&" alt="abhaypratap1968" /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    # Hi, I'm Abhay 👋🏾 👩🏾‍💻
 
 
-<!--
-**abhaypratap1968/abhaypratap1968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<video src="Abhay Pratap Singh.mp4" alt="banner of Abhay Pratap Singh"></video>
 
-Here are some ideas to get you started:
+I'm an undergraduate student deeply passionate about technology, with a particular focus on Java programming. I find joy in solving complex algorithms and crafting efficient applications. Beyond Java, I'm fascinated by the dynamic worlds of web development and artificial intelligence. I'm eager to explore and contribute to the creation of user-friendly web applications and delve into the possibilities of AI, including machine learning and natural language processing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me around the web 🌎: <img align="left" width="50" height="50" src="laptop.png"></a>
+
+- Sharing updates on <a href="www.linkedin.com/in/abhay-pratap-singh-195512269">LinkedIn</a> 💼
+</body>
+</html>
