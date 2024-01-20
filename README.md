@@ -1,4 +1,13 @@
- # Hi, I'm Abhay 👋🏾 👩🏾‍💻
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body> 
+    # Hi, I'm Abhay 👋🏾 👩🏾‍💻
     <video width="100%" height="50%" autoplay loop muted playsinline webkit-playsinline>
         <source src="Abhay Pratap Singh.mp4">
     </video>
@@ -13,3 +22,7 @@
     ##Find me around the web 🌎:   <img align="left" width="100" height="100" src="laptop.png" alt="Abhay's laptop"> <br>
     
     Sharing updates on <a href="www.linkedin.com/in/abhay-pratap-singh-195512269">LinkedIn</a> 💼
+    
+</body>
+
+</html>
