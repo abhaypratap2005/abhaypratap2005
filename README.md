@@ -19,7 +19,7 @@
    
    
    
-    ##Find me around the web 🌎:   <img align="left" width="100" height="100" src="laptop.png" alt="Abhay's laptop"> <br>
+    Find me around the web 🌎:   <img align="left" width="100" height="100" src="laptop.png" alt="Abhay's laptop"> <br>
     
     Sharing updates on <a href="www.linkedin.com/in/abhay-pratap-singh-195512269">LinkedIn</a> 💼
     
