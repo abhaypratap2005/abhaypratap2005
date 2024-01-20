@@ -23,7 +23,7 @@
     <h3>Find me around the web 🌎:</h3>
       <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/abhaypratap1968/abhaypratap1968/master/laptop.png" alt="Abhay's laptop"> <br>
     
- Sharing updates on <a href="www.linkedin.com/in/abhay-pratap-singh-195512269">LinkedIn</a> 💼
+ Sharing updates on <a href="https://www.linkedin.com/in/abhay-pratap-singh-195512269/">LinkedIn</a> 💼
     </p>
 </body>
 
