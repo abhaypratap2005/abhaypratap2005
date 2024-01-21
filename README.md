@@ -8,7 +8,7 @@
 
 
 <body> 
-    <h2>Hi, I'm Abhay 👋🏾 👩🏾‍💻</h1>
+    <h2>Hi, I'm Abhay 👋 👨‍💻</h1>
      <img src="https://raw.githubusercontent.com/abhaypratap1968/abhaypratap1968/master/1.png" alt="banner of abhay">
     
  <p>
