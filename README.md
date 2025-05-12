@@ -1,30 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
+<h1 align="center">Hey there, I'm Abhay 👋👨‍💻</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhaypratap1968/abhaypratap1968/master/1.png" alt="Abhay's Banner" width="100%">
+</p>
+
+---
+
+### 🧑‍🎓 About Me
+
+🎓 I'm an undergraduate student passionate about **technology and innovation**.  
+💡 My core interest lies in **Java programming**, where I enjoy solving challenges and building robust solutions.
+
+🌐 I actively explore areas like:
+- 🌍 **Web Development** – bringing ideas to life on the browser  
+- 🤖 **Artificial Intelligence** – learning, experimenting, and creating with **ML** and **NLP**  
+- 🛠️ **Problem Solving** – applying logic and algorithms to real-world tasks  
+
+I love collaborating on meaningful projects and continuously expanding my skills across modern development stacks.
+
+---
+
+### 🌐 Find Me Around the Web
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhay-pratap-singh-195512269/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/abhaypratap1968/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:abhaypratap1968@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/abhaypratap2005">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### ⚡ Fun Facts About Me
+
+- 🧠 I solve coding problems daily to keep my brain sharp  
+- 🖥️ I'm constantly tweaking my personal projects to make them better  
+- ☕ Coffee + Code = Perfect Combo  
+- 💬 Ask me about Java or web app design  
+
+---
 
 
-<body> 
-    <h2>Hi, I'm Abhay 👋 👨‍💻</h1>
-     <img src="https://raw.githubusercontent.com/abhaypratap1968/abhaypratap1968/master/1.png" alt="banner of abhay">
-    
- <p>
-    I'm an undergraduate student deeply passionate about technology, with a particular focus on Java programming. I find
-    joy in solving complex algorithms and crafting efficient applications. Beyond Java, I'm fascinated by the dynamic
-    worlds of web development and artificial intelligence. I'm eager to explore and contribute to the creation of
-    user-friendly web applications and delve into the possibilities of AI, including machine learning and natural
-    language processing. </p>
-   
-   
-   <p>
-    <h3>Find me around the web 🌎:</h3>
-      <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/abhaypratap1968/abhaypratap1968/master/laptop.png" alt="Abhay's laptop"> <br>
-    
- Sharing updates on <a href="https://www.linkedin.com/in/abhay-pratap-singh-195512269/">LinkedIn</a> 💼
-    </p>
-</body>
-
-</html>
